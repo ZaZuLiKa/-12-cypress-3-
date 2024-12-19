@@ -1,0 +1,35 @@
+{
+    "PersonalInfo": {
+        "FullName": "Zoo Zoo",
+        "FirstName": "Zoo",
+        "LastName": "Zoo",
+        "Address1": "New Castle DE 12345",
+        "Address2": "San Marino",
+        "Country": "India",
+        "State": "DE",
+        "City": "New Castle",
+        "Zip": "12345",
+        "Phone": "12365767534",
+        "Email": "ZooZoo@gmail.com",
+        "Gender": "Male",
+        "Birthday": "3",
+        "BirthMonth": "5",
+        "BirthYear": "1995",
+        "Company": "Zoo"
+    },
+    "PaymentCredential": {
+        "CardHolder": "Zoo Zoo",
+        "CardNumber": "12345678",
+        "CVC": "123",
+        "ExpireMonth": "12",
+        "ExpireYear": "25"
+    },
+    "Authorization": {
+        "Email": "ZooZoo@gmail.com",
+        "Password": "12345678"
+    },
+    "InvalidAuthorization": {
+        "Email": "dsdas@gmail.com",
+        "Password": "12345678"
+    }
+}
